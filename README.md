@@ -33,8 +33,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML5" alt="HTML" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="HTML5" alt="HTML" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="HTML5" alt="HTML" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="HTML5" alt="HTML" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="HTML5" alt="HTML" width="40" height="40">
     </div>
 </div>
 
