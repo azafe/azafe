@@ -33,7 +33,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JAVASCRIPT" alt="JAVASCRIPT" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="FLUTTER" alt="FLUTTER" width="40" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="DART" alt="DART" width="40" height="40">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" title="NODEJS" alt="NODEJS" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NODEJS" alt="NODEJS" width="40" height="40">
 
     </div>
 </div>
