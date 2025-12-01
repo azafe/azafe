@@ -18,8 +18,6 @@
 
 -📱 Mobile Developer
 
--🌐 I'm currently learning **Blockchain and AI**
-
 -🧍 Linkedin [Alvaro Zafe](https://www.linkedin.com/in/alvaro-zafe/)
 
 
