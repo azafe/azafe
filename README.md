@@ -4,10 +4,8 @@
     width="200"
     alt="Flutter"
   />
-  <h1 align="center">Hi, my name is Alvaro</h1>
+  <h1 align="center">Hi, I'm Alvaro</h1>
   <h3 align="center">
-    I'm an electronic engineer with experience in mobile development, I enjoy
-    doing it with flutter 😉.
   </h3>
 </div>
 
